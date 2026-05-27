@@ -3,6 +3,9 @@ This repository contains source code for the project page for the paper "CADFS: 
 
 
 ## Changelog
+#### 2026 May 27
+- Update links, add video overview
+
 #### 2026 Apr 01
 - Initial release
 
