@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["_astro/image-comparisons.C_fqKMsh.js","_astro/cad-comparisons.DpxFZ8WV.js","_astro/FXAAShader.BG--lUKr.js"])))=>i.map(i=>d[i]);
+import{_ as i}from"./preload-helper.qBb6XNBG.js";const o=document.querySelector("[data-image-comparisons]");if(o){const r=new IntersectionObserver(t=>{t.some(e=>e.isIntersecting)&&(r.disconnect(),i(()=>import("./image-comparisons.C_fqKMsh.js"),__vite__mapDeps([0,1,2])).then(e=>e.initImageComparisons(o)))},{rootMargin:"250px"});r.observe(o)}

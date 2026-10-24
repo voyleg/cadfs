@@ -3,6 +3,9 @@ This repository contains source code for the project page for the paper "CADFS: 
 
 
 ## Changelog
+#### 2026 Oct 24
+- Add interactive 3D comparisons
+
 #### 2026 May 27
 - Update links, add video overview
 
